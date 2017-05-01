@@ -3,6 +3,9 @@
 This is the Intellij version of the Spartanizer project of Eclipse.
 See https://github.com/SpartanRefactoring/Spartanizer
 
+# This fork purpose
+is to try migrating the build process to maven from gradle.
+
 # Build Status
 [![Build Status](https://travis-ci.org/TechnionYP5777/Leonidas-FTW.svg?branch=master)](https://travis-ci.org/TechnionYP5777/IntelliJ-Spartanizer) [![codecov](https://codecov.io/gh/TechnionYP5777/Leonidas-FTW/branch/master/graph/badge.svg)](https://codecov.io/gh/TechnionYP5777/Leonidas-FTW)
 
